@@ -1,0 +1,23 @@
+{
+  "name": "com.frame.networkweaver",
+  "version": "1.0.0",
+  "description": "网络通信协议库, 依赖: JackAST / JackBuffer / BufferIO",
+  "displayName": "JackFrame.NetworkWeaver",
+  "unity": "2019.4",
+  "author": {
+    "name": "杰克有茶",
+    "email": "chenwansal1@163.com",
+    "url": "http://www.utea.fun"
+  },
+  "changelogUrl": "",
+  "dependencies": {},
+  "documentationUrl": "",
+  "hideInEditor": false,
+  "keywords": [
+    "jackframe"
+  ],
+  "license": "",
+  "licensesUrl": "",
+  "samples": [],
+  "unityRelease": "16f1"
+}

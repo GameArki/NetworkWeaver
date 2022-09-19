@@ -1,0 +1,19 @@
+{
+    "name": "JackFrame.NetworkWeaver.Sample",
+    "rootNamespace": "",
+    "references": [
+        "JackFrame.Runtime",
+        "JackFrame.NetworkWeaver.Tcp",
+        "JackBuffer.Runtime",
+        "JackFrame.BufferIO"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
