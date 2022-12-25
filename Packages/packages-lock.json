@@ -12,14 +12,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "20dda92ce33d07b4d58107b30485bd663bcbe773"
+      "hash": "6c1f85ad50be28b1cd401c23c2d985c2b617bf15"
     },
     "com.gamearki.csharpgen": {
       "version": "ssh://git@github.com/gamearki/ArkiCSharpGen.git?path=/Assets/com.gamearki.csharpgen#1.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "8362f22e45448663707006249b0009da4f0a8087"
+      "hash": "3c2a704a655199aaff9a680b9922361bdaacfe96"
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
